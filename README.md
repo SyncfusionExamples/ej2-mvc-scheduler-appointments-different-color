@@ -1,9 +1,14 @@
-# EJ2-MVC-Different-Colors-for-All-Appointment
+# Different Colors for All Appointment
 
-This project will explain how display all the appointments with different colors.
+This sample explains about how to display all the appointments with different colors in ASP.NET MVC Scheduler control.
 
-## Steps to Run the sample
+## Prerequisites
 
-This project requires the below assembly dependencies to run.
+* Visual Studio 2022
 
-* Syncfusion.EJ2 Include this dll from Essential studio installed location or from online nuget packages.
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
